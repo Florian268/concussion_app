@@ -138,7 +138,7 @@ Container(
                     ),
                     padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 10),
                     child: Text(
-                      "\t\t- Use of drugs or alcohol can \t\t\tinterfere with healing progress.\n\t\t- Ignoring the process of healing can tultimately increase healing process.\n\t\t- Do not participate in extraneous activities that may harm oneself.",
+                      "\t\t- Use of drugs or alcohol can interfere with healing progress.\n\t\t- Ignoring the process of healing can tultimately increase healing process.\n\t\t- Do not participate in extraneous activities that may harm oneself.",
                       style: TextStyle(fontSize: 15, height: 2, color: Colors.white)
                     )
                   ),

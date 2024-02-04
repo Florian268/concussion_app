@@ -95,7 +95,7 @@ class _SinglePageState extends State<SinglePage> {
                 stream:  noiseMeter.noiseStreamController.stream, // assuming this is a Stream
                 builder: (BuildContext context, AsyncSnapshot snapshot) {
                   if (snapshot.hasData) {
-                    if (prompt == true || snapshot.data >= 85) {
+                    if (prompt == true || snapshot.data >= 89) {
                       prompt = true;
                       return AlertDialog(
                         title: Text('Warning'),

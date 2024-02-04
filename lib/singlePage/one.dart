@@ -152,7 +152,7 @@ Widget one(BuildContext context, progress1){
                     ),
                     padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 10),
                     child: Text(
-                      "\t\t- Avoid alcohol.\t\t- Avoid smoking.\n\t\t- Avoid stress.",
+                      "\t\t- Avoid alcohol.\n\t\t- Avoid smoking.\n\t\t- Avoid stress.",
                       style: TextStyle(fontSize: 15, height: 2, color: Colors.white)
                     )
                   ),
